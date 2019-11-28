@@ -1,0 +1,7 @@
+crc32.o: crc32.c \
+  /usr/lib/gcc/sh-linux/4.1.1/../../../../sh-linux/include/stdint.h \
+  /usr/lib/gcc/sh-linux/4.1.1/../../../../sh-linux/include/features.h \
+  /usr/lib/gcc/sh-linux/4.1.1/../../../../sh-linux/include/sys/cdefs.h \
+  /usr/lib/gcc/sh-linux/4.1.1/../../../../sh-linux/include/bits/wordsize.h \
+  /usr/lib/gcc/sh-linux/4.1.1/../../../../sh-linux/include/gnu/stubs.h \
+  /usr/lib/gcc/sh-linux/4.1.1/../../../../sh-linux/include/bits/wchar.h

@@ -1,2 +1,0 @@
-# mtdtools
-mtd flash tools
